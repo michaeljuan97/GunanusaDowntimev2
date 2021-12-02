@@ -77,6 +77,8 @@
               5. Change Over 2/Ganti produk harus setting mesin atau cleaning
             </option>
             <option>6. Start up menunggu kacang sangrai</option>
+            <option>7. Trial 1</option>
+            <option>8. Trial 2</option>
             <option value="" disabled>---REASON DOWNTIME---</option>
             <option>1. Setting mesin sebelum metal (Chopp)</option>
             <option>2. Disimpan di palet</option>
